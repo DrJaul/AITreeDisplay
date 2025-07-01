@@ -68,3 +68,6 @@ Unity.VisualStudio.Editor.csproj
 .vscode/
 .vsconfig
 Packages/
+/Assets/Plugins
+/Assets/TextMesh Pro
+/Assets/TutorialInfo
