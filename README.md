@@ -1,10 +1,6 @@
-# AI Tree Display
+# AI Tree Display Overview (WIP)
 
-AI Tree Display is a Unity game engine project designed to visualize living tree simulations produced by the companion TreeAI repository. The project provides the presentation layer for an AI-driven botanical growth system.
-
-## Relationship to TreeAI
-
-This project is a partner to the TreeAI repository. TreeAI focuses on the algorithms and data models required to grow virtual trees and produces a compiled library containing the tree simulation logic. AI Tree Display consumes that compiled library to render the resulting tree objects inside Unity.
+AI Tree Display is a Unity game engine project. The purpose of this code is to execute the growth loop and visualize 3D tree data produced by the compiled TreeAI engine. 
 
 ## Architectural Approach
 
